@@ -1,10 +1,9 @@
 ### ¡Hey! Aquí Leandro 👋
 
 ---
+![Presentacion GITHUB (online-video-cutter com)](https://github.com/Leandrobader/Leandrobader/assets/105061898/195923cd-2e47-438d-9f4e-a67d60bcf23e)
 
-<p align="center">
-  <img src="https://s3.resume.io/uploads/examples/cover_letter/og_image/6797/persistent-resource/programador-ejemplos-de-carta-de-presentacion.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+
 
 Soy un desarrollador Web Full-stack MERN (MongoDB, Express, React, Node).
 Entusiasta y autodidacta :wink:
